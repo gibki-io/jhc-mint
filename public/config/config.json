@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xC9CE9BE95Ed8Ce275729BaaFf80b660a229AE93C",
+  "SCAN_LINK": "https://etherscan.io/address/0xc9ce9be95ed8ce275729baaff80b660a229ae93c",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
+  "NFT_NAME": "Joy Hop Club",
+  "SYMBOL": "JHC",
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "DISPLAY_COST": 1.3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/joy-hop-club",
   "SHOW_BACKGROUND": true
 }
